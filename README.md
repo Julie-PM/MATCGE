@@ -25,4 +25,4 @@ When using the MATCGE model, please cite <a href="https://www.cesifo.org/en/publ
 Reyer Gerlagh and Etienne Lorang. 2024 Material Source and Waste Taxes in Competitive Equilibrium.
 CESIFO Working Paper https://www.cesifo.org/en/publications/2024/working-paper/material-source-and-waste-taxes-competitive-equilibrium 
 # What does MATCGE stand for?
-MATCGE **MAT**erial flows and balances embedded in a **C**omputational **G**eneral **E**quilibrium
+MATCGE: **MAT**erial flows and balances embedded in a **C**omputational **G**eneral **E**quilibrium
