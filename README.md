@@ -3,7 +3,8 @@ A stylized material flow consistent computable general equilibrium (CGE) model t
 The model is written in Python. The code is provided in Jupiter. 
 
 # How to use
-*Preliminary version Not finsihed - for more information please check <a href="https://wiki.circomod.eu/MATCGE">the dedicated Wiki page</a>*
+*Preliminary version Not finsihed - for more information please check <a href="https://wiki.circomod.eu/MATCGE">the dedicated Wiki page</a>*.
+
 The code needs an excel or .csv file which contain at least 5 tabs:
 - SAM
 - PIOT1
