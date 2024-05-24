@@ -4,6 +4,10 @@ MAT CGE is a stylized material flow consistent computable general equilibrium (C
 
 The model is written in Python. The code is provided in Jupiter. 
 
+![Alt text here](https://github.com/Julie-PM/MATCGE/blob/main/MATCGE_graph.jpg)
+Schematic overview of the MATCGE model - from <a href="https://www.cesifo.org/en/publications/2024/working-paper/material-source-and-waste-taxes-competitive-equilibrium">Lorang & Gerlagh (2024)</a>
+
+
 # How to use
 *Preliminary version Not finsihed - for more information please check <a href="https://wiki.circomod.eu/MATCGE">the dedicated Wiki page</a>*.
 
@@ -13,9 +17,6 @@ The code needs an excel or .csv file which contain at least 5 tabs:
 - PIOT2
 - TAX
 - MATERIALS
-
-![Alt text here](https://github.com/Julie-PM/MATCGE/blob/main/MATCGE_graph.jpg)
-Schematic overview of the MATCGE model - from <a href="https://www.cesifo.org/en/publications/2024/working-paper/material-source-and-waste-taxes-competitive-equilibrium">Lorang & Gerlagh (2024)</a>
 
 # Further details
 For further details on the model, read <a href="https://www.cesifo.org/en/publications/2024/working-paper/material-source-and-waste-taxes-competitive-equilibrium">Lorang & Gerlagh (2024)</a> or consult the dedicated wiki page: https://wiki.circomod.eu/MATCGE
