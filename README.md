@@ -11,14 +11,14 @@ Schematic overview of the MATCGE model - from <a href="https://www.cesifo.org/en
 # How to use
 *Preliminary version Not finsihed - for more information please check <a href="https://wiki.circomod.eu/MATCGE">the dedicated Wiki page</a>*.
 
-The code needs an excel or .csv file which contain at least 5 tabs:
+The code needs an excel .xlsx file Named "SAM.xlsx" which contain at least 5 tabs:
 - SAM
 - PIOT1
 - PIOT2
 - TAX
 - MATERIALS
-
-You can use th provided SAM.xls file provided in this repository to run the Jupyter code.
+Names of the tabs and of the cells should be identical to the ones of the example "SAM.xlsx" provided in this repository.
+You can use th provided SAM.xlsx file provided in this repository to run the Jupyter code.
 
 # Further details
 For further details on the model, read <a href="https://www.cesifo.org/en/publications/2024/working-paper/material-source-and-waste-taxes-competitive-equilibrium">Lorang & Gerlagh (2024)</a> or consult the dedicated wiki page: https://wiki.circomod.eu/MATCGE
