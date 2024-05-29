@@ -4,7 +4,7 @@ MATCGE is a stylized material flow consistent computable general equilibrium (CG
 
 The model is written in Python. The code is provided in Jupiter. 
 
-![Alt text here](https://github.com/Julie-PM/MATCGE/blob/main/MATCGE_graph.jpg)
+![Alt text here](https://github.com/Julie-PM/MATCGE/blob/main/MATCGEgraph.jpg)
 Schematic overview of the MATCGE model - from <a href="https://www.cesifo.org/en/publications/2024/working-paper/material-source-and-waste-taxes-competitive-equilibrium">Lorang & Gerlagh (2024)</a>
 
 
